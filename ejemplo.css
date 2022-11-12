@@ -1,0 +1,45 @@
+p {
+    color: blue;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    background-color: beige;
+
+}
+
+h3 {
+    color: darkblue;
+    font-style: italic;
+    width: auto;
+}
+
+h4 {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+}
+
+a {
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.destacados {
+    color: darkgoldenrod;
+    font-style: oblique;
+}
+
+.caja {
+    width: 300px;
+    height: 330px;
+    background-color: rgb(142, 60, 209);
+    box-shadow: 90px;
+
+}
